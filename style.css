@@ -1,0 +1,44 @@
+.heading3 {
+    font-weight: bold;
+    font-size: 50px;
+    color: red;
+}
+
+/* selectors
+
+tag selector 
+h2 {
+    color: red;
+}
+class selector
+.class {
+    color: red;
+}
+id selector
+#id {
+    color: red;
+}
+
+universal selector
+* {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+pseudu selectors
+
+combinators */
+
+
+/* Structure css - height, width, margin, padding, float, position, display
+
+Content - size, color, weight, text-decoration, font-style
+
+media query - responsiveness
+
+animations
+
+colors
+https://colorhunt.co/
+Chrome Extension - https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp
+
+......................... */

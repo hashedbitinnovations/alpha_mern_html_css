@@ -1,0 +1,40 @@
+.container {
+
+}
+
+.header {
+    width: 100%;
+    height: 100px;
+    background-color: #79AC78;
+}
+
+.navbar {
+    width: 100%;
+    height: 80px;
+    background-color: #a8f0f4;
+    display: block;
+}
+
+.aside {
+    width: 30%;
+    height: 300px;
+    background-color: #f1f2b5;
+    float: left;
+}
+
+.main {
+    width: 70%;
+    height: 300px;
+    background-color: #f5b6de;
+    float: right;
+}
+
+.footer {
+    width: 100%;
+    height: 80px;
+    background-color: #70eb48;
+    clear: both; 
+}
+
+
+/* inline elements do not take height and width */

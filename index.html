@@ -1,124 +1,155 @@
+<!DOCTYPE html>
+<!-- inform browser about the html version -->
 <html>
 
-        <head>
+<head>
+    <title>My Web Page</title>
+    <!-- favicon icon -->
+    <link rel="shortcut icon" type="image/x-icon" href="./images/favicon.ico">
+    <!-- meta tags - author, keywords, description, http-eqiv, viewport-->
+    <meta charset="UTF-8">
+    <meta name="description" content="Free Web tutorials">
+    <meta name="keywords" content="HTML, CSS, JavaScript">
+    <meta name="author" content="John Doe">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="refresh" content="30">
+    <link rel="stylesheet" href="./style.css" />
+    <!-- attaching css file -->
 
-        </head>
+    <script src="./test.js" type="text/javascript"></script>
+    <!-- attaching js file -->
 
-        <body>
+    <style>
+        .heading2 {
+            font-weight: bold;
+            font-size: 50px;
+            color: red;
+        }
+    </style>
+    <script></script>
 
+</head>
 
-            <a href="https://www.google.com/">Click here to visit Google</a>
-            <a href="./about.html">About Page</a>
-            <!-- https://www.google.com/ - absolute url -->
+<body>
 
-            <!-- ./ - same folder
+    <a href="https://www.google.com/">Click here to visit Google</a><br>
+    <a href="https://www.google.com/" target="_blank">Click here to visit Google</a><br>
+    <!-- new, blank, _blank -->
+    <a href="./about.html">About Page</a><br>
+    <!-- https://www.google.com/ - absolute url -->
+
+    <!-- ./ - same folder
             ../ - one folder back
             ./foldername/ - inside another folder
             relative url -->
 
+    <a href="#page1link">Page 1 URL</a><br>
+    <a href="#page2link">Page 2 URL</a><br>
+
+
+    <!-- Day 1 - HTML -->
+    <p>This is a paragraph. This is a paragraph. This is a paragraph.
+        This is a paragraph.This is a paragraph.This is a paragraph.
+        This is a paragraph.This is a paragraph.This is a paragraph.
+        This is a paragraph.This is a paragraph.This is a paragraph.
+        This is a paragraph.This is a paragraph.This is a paragraph.
+        This is a paragraph.This is a paragraph.This is a paragraph.
+        This is a paragraph.This is a paragraph.This is a paragraph.
+        This is a paragraph.This is a paragraph.This is a paragraph.
+        This is a paragraph.This is a paragraph.This is a paragraph.
+        This is a paragraph.This is a paragraph.This is a paragraph.
+        This is a paragraph.This is a paragraph.This is a paragraph.
+        This is a paragraph.This is a paragraph.This is a paragraph.
+        This is a paragraph.This is a paragraph.This is a paragraph.
+        This is a paragraph.This is a paragraph.This is a paragraph.</p>
+
+
+    <h1 style="font-weight: bold;font-size: 50px;color: red;">Heading 1</h1>
+    <!-- bold, red, 50 -->
+    <h2 class="heading2">Heading 2</h2>
+    <h3 class="heading3">Heading 3</h3>
+    <h4>Heading 4</h4>
+    <h5>Heading 5</h5>
+    <h6>Heading 6</h6>
+
+
+    <!-- <img src="https://img.freepik.com/free-vector/hand-painted-watercolor-pastel-sky-background_23-2148902771.jpg?w=2000" width="400px" height="300px"/> -->
+
+    <img src="./images/abc.avif" width="200px" height="auto" />
+    <!-- aspect ratio -->
 
 
 
+    <ul type="circle">
+        <li>Tata</li>
+        <li>Mahindra</li>
+        <li>Rolls Royce</li>
+        <li>Buggati</li>
+        <li>Ford</li>
+        <li>Skoda</li>
+        <li>Mercedez</li>
+        <li>Audi</li>
+    </ul>
+
+    <ol type="a">
+        <li>Tata</li>
+        <li>Mahindra</li>
+        <li>Rolls Royce</li>
+        <li>Buggati</li>
+        <li>Ford</li>
+        <li>Skoda</li>
+        <li>Mercedez</li>
+        <li>Audi</li>
+    </ol>
+
+    <!-- HW - try different types of lists -->
+
+    <table border="1">
+
+        <thead>
+            <tr>
+                <th>Sr No </th>
+                <th>Name </th>
+                <th>Age </th>
+                <th>City </th>
+            </tr>
+        </thead>
+
+        <tbody>
+            <tr>
+                <td>1</td>
+                <td>Name</td>
+                <td>12345</td>
+                <td>GGN</td>
+            </tr>
+
+            <tr>
+                <td>1</td>
+                <td>Name</td>
+                <td>12345</td>
+                <td>GGN</td>
+            </tr>
+
+            <tr>
+                <td>1</td>
+                <td>Name</td>
+                <td>12345</td>
+                <td>GGN</td>
+            </tr>
 
 
-            <!-- Day 1 - HTML -->
-            <p>This is a paragraph. This is a paragraph. This is a paragraph.
-                This is a paragraph.This is a paragraph.This is a paragraph.
-                This is a paragraph.This is a paragraph.This is a paragraph.
-                This is a paragraph.This is a paragraph.This is a paragraph.
-                This is a paragraph.This is a paragraph.This is a paragraph.
-                This is a paragraph.This is a paragraph.This is a paragraph.
-                This is a paragraph.This is a paragraph.This is a paragraph.
-                This is a paragraph.This is a paragraph.This is a paragraph.
-                This is a paragraph.This is a paragraph.This is a paragraph.
-                This is a paragraph.This is a paragraph.This is a paragraph.
-                This is a paragraph.This is a paragraph.This is a paragraph.
-                This is a paragraph.This is a paragraph.This is a paragraph.
-                This is a paragraph.This is a paragraph.This is a paragraph.
-                This is a paragraph.This is a paragraph.This is a paragraph.</p>
+        </tbody>
 
 
-            <h1>Heading 1</h1>
-            <h2>Heading 2</h2>
-            <h3>Heading 3</h3>
-            <h4>Heading 4</h4>
-            <h5>Heading 5</h5>
-            <h6>Heading 6</h6>
+    </table>
 
-
-            <!-- <img src="https://img.freepik.com/free-vector/hand-painted-watercolor-pastel-sky-background_23-2148902771.jpg?w=2000" width="400px" height="300px"/> -->
-
-            <img src="./images/abc.avif" width="200px" height="auto"/>
-            <!-- aspect ratio -->
-
-
-
-            <ul type="circle">
-                <li>Tata</li>
-                <li>Mahindra</li>
-                <li>Rolls Royce</li>
-                <li>Buggati</li>
-                <li>Ford</li>
-                <li>Skoda</li>
-                <li>Mercedez</li>
-                <li>Audi</li>
-            </ul>
-
-            <ol type="a">
-                <li>Tata</li>
-                <li>Mahindra</li>
-                <li>Rolls Royce</li>
-                <li>Buggati</li>
-                <li>Ford</li>
-                <li>Skoda</li>
-                <li>Mercedez</li>
-                <li>Audi</li>
-            </ol>
-
-            <!-- HW - try different types of lists -->
-
-            <table border="1">
-                
-                <thead>
-                    <tr>
-                        <th>Sr No </th>
-                        <th>Name </th>
-                        <th>Age </th>
-                        <th>City </th>
-                    </tr>
-                </thead>
-
-                <tbody>
-                    <tr>
-                        <td>1</td>
-                        <td>Name</td>
-                        <td>12345</td>
-                        <td>GGN</td>
-                    </tr>
-
-                    <tr>
-                        <td>1</td>
-                        <td>Name</td>
-                        <td>12345</td>
-                        <td>GGN</td>
-                    </tr>
-
-                    <tr>
-                        <td>1</td>
-                        <td>Name</td>
-                        <td>12345</td>
-                        <td>GGN</td>
-                    </tr>
-
-
-                </tbody>
-
-
-            </table>
+    <div id="page1link">Page 1</div>
+    <div id="page2link">Page 2</div>
 
 
 
-        </body>
+</body>
+
 </html>
 
 
