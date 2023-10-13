@@ -1,6 +1,8 @@
 * {
     margin: 0px;
     padding: 0px;
+    /* font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; */
+    font-family: 'Dancing Script', cursive;
 }
 
 .container {
@@ -216,3 +218,58 @@ china - 2 gold 4 silver 10 bronze - 650 */
     color: blueviolet;
 }
 
+.border-img { 
+    border: 10px solid transparent;
+    padding: 15px;
+    border-image: url('./images/border.png') 30 round;
+  }
+
+
+
+  /* media queries */
+
+  /* @media screen and (min-width: 480px) and (max-width: 780px) {
+    body {
+      background-color: lightgreen;
+    }
+  } */
+
+
+/* laptop - width 1920px - 1080px
+laptop - width 1360px - 768px
+tab - width 1020px
+mobile - width 780px
+
+
+mobile - max width - 780px
+tab - 800px - 1300
+desktop - 1300 and above */
+
+/* mobile */
+@media screen and (max-width: 800px) {
+    .aside {
+        width: 100%;
+    }
+    .main {
+        width: 100%;
+    }
+
+    /* .aside, .main {
+        width: 100%;
+    } */
+}
+
+/* tab */
+@media screen and (min-width: 800px) and (max-width: 1300px) {
+    /* .aside {
+        width: 100%;
+    }
+    .main {
+        width: 100%;
+    } */
+}
+
+/* desktop */
+@media screen and (min-width: 1300px) {
+    
+}
