@@ -273,3 +273,18 @@ desktop - 1300 and above */
 @media screen and (min-width: 1300px) {
     
 }
+
+
+
+.image-text .image1 {
+    position: absolute;
+    z-index: 1111;
+    width: 300px;
+    height: auto;
+}
+
+.image-text p {
+    position: absolute;
+    z-index: 5555;
+    left: 50px;
+}
