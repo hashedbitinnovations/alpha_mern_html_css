@@ -25,17 +25,7 @@ Scope - https://jsfiddle.net/hashedbit/7pLax1tu/1/
 Scope and Variable Shadowing - https://jsfiddle.net/hashedbit/neup0qjk/2/
 
 
-
-
-
-Function
-
-types of fn
-hof
-iife
-aarow
-
-
-
-coditionals detailed
-variable coercion
+Day 3
+Types of Functions - https://jsfiddle.net/hashedbit/epvbz94y/2/
+var let const - https://jsfiddle.net/hashedbit/mgv0z51k/2/
+Array and Array Methods - https://jsfiddle.net/hashedbit/f6km02gL/2/
