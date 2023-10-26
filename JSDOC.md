@@ -29,3 +29,10 @@ Day 3
 Types of Functions - https://jsfiddle.net/hashedbit/epvbz94y/2/
 var let const - https://jsfiddle.net/hashedbit/mgv0z51k/2/
 Array and Array Methods - https://jsfiddle.net/hashedbit/f6km02gL/2/
+
+
+
+Day 4
+Arrow Function - https://jsfiddle.net/hashedbit/0haw4fsn/2/
+Array Methods Continued - https://jsfiddle.net/hashedbit/swc45vnm/2/
+Array Methods ES6 Continued - https://jsfiddle.net/hashedbit/87squ6fy/2/
