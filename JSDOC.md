@@ -36,3 +36,12 @@ Day 4
 Arrow Function - https://jsfiddle.net/hashedbit/0haw4fsn/2/
 Array Methods Continued - https://jsfiddle.net/hashedbit/swc45vnm/2/
 Array Methods ES6 Continued - https://jsfiddle.net/hashedbit/87squ6fy/2/
+
+
+
+Day 5
+Object Intro - https://jsfiddle.net/hashedbit/bheL761o/3/
+JSON - https://jsfiddle.net/hashedbit/3n0chvax/3/
+Object Methods - https://jsfiddle.net/hashedbit/9jtpqgsx/3/
+2d Array - https://jsfiddle.net/hashedbit/d5zn74k3/3/
+Object Copy - https://jsfiddle.net/hashedbit/op1k69mf/3/
