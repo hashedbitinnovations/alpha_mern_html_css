@@ -45,3 +45,11 @@ JSON - https://jsfiddle.net/hashedbit/3n0chvax/3/
 Object Methods - https://jsfiddle.net/hashedbit/9jtpqgsx/3/
 2d Array - https://jsfiddle.net/hashedbit/d5zn74k3/3/
 Object Copy - https://jsfiddle.net/hashedbit/op1k69mf/3/
+
+
+
+Day 6
+Object Methods - https://jsfiddle.net/hashedbit/q27gx3z8/2/
+Type Conversion - https://jsfiddle.net/hashedbit/er8os6ax/2/
+Type Coercion - https://jsfiddle.net/hashedbit/Lwpeqdna/2/
+Conditional Implementation - https://jsfiddle.net/hashedbit/owyb8tmh/2/
