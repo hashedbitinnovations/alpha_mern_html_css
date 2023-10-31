@@ -53,3 +53,48 @@ Object Methods - https://jsfiddle.net/hashedbit/q27gx3z8/2/
 Type Conversion - https://jsfiddle.net/hashedbit/er8os6ax/2/
 Type Coercion - https://jsfiddle.net/hashedbit/Lwpeqdna/2/
 Conditional Implementation - https://jsfiddle.net/hashedbit/owyb8tmh/2/
+
+
+
+Day 7
+String Class - https://jsfiddle.net/hashedbit/t3oqp2jL/2/
+Date Class - https://jsfiddle.net/hashedbit/npg0y91q/2/
+DOM Image - https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/DOM-model.svg/1200px-DOM-model.svg.png
+
+
+DOM - Document Object Model
+
+
+let document = {
+    head: {
+        link1 : {
+            href: ''.
+            rel: ''
+        },
+        link2 : {
+            href: ''.
+            rel: ''
+        }
+    }
+    body: {
+        elemtype: 'container'
+        elemname: 'div',
+        child1 : {
+            elemtype: 'row'
+            elemname: 'div',
+        },
+        child2 : {
+            elemtype: 'row'
+            elemname: 'div',
+        }
+    }
+}
+
+
+
+reach to an element - 5
+text update
+style modification
+add new html/element
+atrributes
+form handling
