@@ -1,3 +1,5 @@
+Beta Batch Initial Repo - https://github.com/hashedbitinnovations/beta_js
+
 JavaScript
 
 Basic Linux Commands
@@ -95,6 +97,10 @@ let document = {
 reach to an element - 5
 text update
 style modification
-add new html/element
+add new html/element and append
 atrributes
 form handling
+
+
+
+JS Assignment - Q4 - https://jsfiddle.net/hashedbit/dgo910tw/3/
