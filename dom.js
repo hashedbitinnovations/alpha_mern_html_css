@@ -126,6 +126,15 @@ console.log(document.querySelectorAll('button')[1].hasAttribute('class'));
 
 
 
-//hide and show elements
-//creation and appending of new elements
-//dom events
+//hide and show elements - display none, visibility hidden, opacity 0
+
+
+document.getElementById('testelementchildspan').style.display = 'none';
+
+document.getElementById('testelementchildspan').style.display = 'block';
+
+
+// disply - none, block inline, inline-block
+
+
+
