@@ -97,6 +97,24 @@
 
       <div class="col-sm-12 col-md-9 col-lg-9 bg-primary-subtle">
 
+        <div class="row">
+          <div class="col-sm-12 col-md-12 col-lg-12 bg-danger-subtle">
+              
+            <form>
+              <label>Name: </label>
+              <input type="text" name="name" id="form_name"/>
+              <br>
+
+              <label>City: </label>
+              <input type="text" name="city" id="form_city"/>
+              <br>
+
+              <button type="button" onclick="submitform(event)">Submit</button>
+            </form>
+
+
+          </div>
+        </div>
 
         <div class="row">
           <div class="col-sm-12 col-md-12 col-lg-12 bg-success-subtle">
@@ -106,6 +124,8 @@
 
           </br></br></br>
               <button id="btnColorUpdate" onclick="btnColorUpdate()">Color Update</button>
+
+              <button id="btnColorRandomUpdate" onclick="btnColorRandomUpdate()">Random Color Update</button>
 
             </br></br></br>
             <button id="counterIncrease" onclick="counterIncrease()">Update Counter</button>

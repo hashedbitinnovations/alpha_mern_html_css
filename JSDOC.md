@@ -104,3 +104,4 @@ form handling
 
 
 JS Assignment - Q4 - https://jsfiddle.net/hashedbit/dgo910tw/3/
+JS DOM Assignment - Q1 - https://jsfiddle.net/hashedbit/vzdc42xf/3/

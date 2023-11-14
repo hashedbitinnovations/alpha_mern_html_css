@@ -14,11 +14,53 @@ html 5 features
 
 
 
-
+Day 5 - CSS - 
+height, width, float
+margin padding, display, position
+font size, color, bg, line-height,
+bg image, gradient
+border
+a, img, table, list
+opacity
+!important
+specificity rule
+combinators
+media query
 font face
 
+psudo class
+pseudo elements
+display flex - neutron
+z-index
+overflow
 
 
 
-improve layout
-meta tags
+
+
+bootstrap
+intro
+how to use
+grid structure
+responsive
+margin padding bg color, border, button para
+
+
+
+
+
+/////////////////////////////////
+Function
+
+types of fn
+hof
+iife
+aarow
+
+
+
+
+object methods due
+type conversion
+type coercion
+coditionals detailed with boolean

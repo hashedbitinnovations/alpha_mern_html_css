@@ -38,6 +38,21 @@ function btnColorUpdate() {
 // ['red', 'green', 'blue', 'yellow', '#a21100', '#ad0022', '#1100dd']
 
 
+function btnColorRandomUpdate() {
+    let array = ['red', 'green', 'blue', 'yellow', '#a21100', '#ad0022', '#1100dd'];
+
+    //let index = parseInt(Math.random() * 10) 
+    //- 0 to 9
+
+    let index = Math.floor(Math.random() * array.length)
+
+    let finalColor = array[index];
+    console.log(index, finalColor)
+    document.getElementById('btnColorRandomUpdate').style.backgroundColor = finalColor;
+}
+
+
+
 // #jh1100
 // RGB - color coding
 
@@ -85,3 +100,16 @@ function counterIncrease() {
 //forms
 //event listener
 //event propagation
+
+
+function submitform(event) {
+    
+    let name = document.getElementById('form_name').value;
+    let city = document.getElementById('form_city').value;
+
+    console.log('Name - ', name)
+    console.log('City - ', city)
+
+    // event.preventDefault();
+    //return false;
+}
