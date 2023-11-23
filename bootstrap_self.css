@@ -17,3 +17,15 @@
     width: 100px;
     height: auto;
 }
+
+#eventpropagation {
+    background-color: #a8f0f4;
+    padding: 10px;
+    border: 1px solid #777777;
+}
+
+#eventpropagation_inner {
+    background-color: #f4a8e1;
+    padding: 10px;
+    border: 1px solid #777777;
+}

@@ -113,3 +113,41 @@ function submitform(event) {
     // event.preventDefault();
     //return false;
 }
+
+function displayleftpanel () {
+    console.log('displayleftpanel');
+}
+
+function displayleftpanel2 () {
+    console.log('display left panel 2');
+}
+
+function colorRed() {
+    console.log('color - red')
+}
+
+
+let element = document.getElementById('displayleftpanel_button2');
+
+element.addEventListener('click', displayleftpanel2);
+element.addEventListener('click', colorRed);
+
+
+//element.removeEventListener('click', colorRed);
+
+
+let element2 = document.getElementById('eventpropagation');
+element2.addEventListener('click', function() {
+    console.log('--------eventpropagation--------')
+});
+
+
+let element3 = document.getElementById('eventpropagation_inner');
+element3.addEventListener('click', function(event) {
+    event.stopPropagation();
+    console.log('--------eventpropagation inner--------')
+});
+
+
+
+// Event Bubbling and Event Capturing
