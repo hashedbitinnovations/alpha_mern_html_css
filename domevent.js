@@ -151,3 +151,29 @@ element3.addEventListener('click', function(event) {
 
 
 // Event Bubbling and Event Capturing
+// Ripples
+// https://jsfiddle.net/hashedbit/uw15vsha/3/
+
+// DOM - document
+// Browser Object Model - BOM - window
+
+
+// window :-
+// document and others
+
+WINDOW
+location
+window.location.href
+window.location.protocol
+window.location.pathname
+window.location.reload()
+window.location.replace('newurl')
+
+
+
+window.navigator
+window.history
+window.localStorage
+window.sessionStorage
+window.screen
+window.alert, prompt, confirm
