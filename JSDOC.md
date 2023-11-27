@@ -105,3 +105,24 @@ form handling
 
 JS Assignment - Q4 - https://jsfiddle.net/hashedbit/dgo910tw/3/
 JS DOM Assignment - Q1 - https://jsfiddle.net/hashedbit/vzdc42xf/3/
+
+
+
+
+ES6 Features :- https://jsfiddle.net/hashedbit/kd5vrcb2/2/
+
+
+
+ES6
+closure
+prototype
+async js, event loop, promise
+api calling
+curry
+polyfill
+debouncing, throttling
+async defer
+generator function
+
+
+REACT

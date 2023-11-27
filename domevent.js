@@ -161,19 +161,46 @@ element3.addEventListener('click', function(event) {
 // window :-
 // document and others
 
-WINDOW
+// WINDOW
 location
-window.location.href
-window.location.protocol
-window.location.pathname
-window.location.reload()
-window.location.replace('newurl')
+// window.location.href
+// window.location.protocol
+// window.location.pathname
+// window.location.reload()
+// window.location.replace('newurl')
 
 
 
-window.navigator
-window.history
+window.navigator.userAgent
+
+// window.history.go()
+// window.history.forward()
+// window.history.go(2)
+
+window.screen
+window.screen.availHeight
+window.screen.availWidth
+
+window.innerWidth
+window.innerHeight
+
+// window.alert, prompt, confirm
+
+
 window.localStorage
 window.sessionStorage
-window.screen
-window.alert, prompt, confirm
+
+// session and cookie
+// Server - session
+// Client - cookie, localStorage, sessionStorage
+
+
+window.localStorage.setItem('userid', 'abc0001')
+window.sessionStorage.setItem('useridsession', 'sessionabc0001')
+
+let data = window.localStorage.getItem('userid');
+
+window.localStorage.removeItem('userid');
+window.localStorage.clear()
+
+
