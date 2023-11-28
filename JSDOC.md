@@ -110,19 +110,22 @@ JS DOM Assignment - Q1 - https://jsfiddle.net/hashedbit/vzdc42xf/3/
 
 
 ES6 Features :- https://jsfiddle.net/hashedbit/kd5vrcb2/2/
-
+Rest Spread operator - https://jsfiddle.net/hashedbit/tp0Lkx59/2/
+Destructuring - https://jsfiddle.net/hashedbit/no8v1bua/2/
+Default Paramater - https://jsfiddle.net/hashedbit/wzL1vtnr/3/
+Closure - https://jsfiddle.net/hashedbit/204bsck8/3/
 
 
 ES6
 closure
 prototype
-async js, event loop, promise
-api calling
+async js, event loop, promise, api calling
 curry
 polyfill
 debouncing, throttling
 async defer
 generator function
+event delegation
 
 
 REACT
