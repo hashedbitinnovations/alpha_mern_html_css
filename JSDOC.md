@@ -116,9 +116,33 @@ Default Paramater - https://jsfiddle.net/hashedbit/wzL1vtnr/3/
 Closure - https://jsfiddle.net/hashedbit/204bsck8/3/
 
 
-ES6
-closure
-prototype
+
+Prototype
+
+Jsfiddle - https://jsfiddle.net/hashedbit/uow7vh8q/2/
+
+
+arr.__proto__ = Array.prototype
+obj.__proto__ = Object.prototype
+
+
+arr.__proto__ = Object
+arr.__proto__.__proto__ = Object.prototype
+
+arr.__proto__.__proto__.__proto__ = null
+
+
+Prototypical Inheritance
+Prototype Chain
+
+
+class A - prototypeA - 5 prop
+
+class B Extends class A - prototypeB 10 props (will also include prototypeA - 5 props)
+
+
+
+
 async js, event loop, promise, api calling
 curry
 polyfill
@@ -126,6 +150,7 @@ debouncing, throttling
 async defer
 generator function
 event delegation
+prototypical inheritance
 
 
 REACT
