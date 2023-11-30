@@ -141,9 +141,20 @@ class A - prototypeA - 5 prop
 class B Extends class A - prototypeB 10 props (will also include prototypeA - 5 props)
 
 
+Async Opeartions - timer related tasks, api call, dom operations
+
+async js, event loop
+
+Sync async - https://www.outsystems.com/-/media/images/blog/posts/asynchronous-vs-synchronous-programming/asynchronous-vs-synchronous-programming-01.png?updated=20230509143012
+
+Event Loop - https://miro.medium.com/v2/resize:fit:1358/1*iHhUyO4DliDwa6x_cO5E3A.gif
+
+Async JS - Timer - https://jsfiddle.net/hashedbit/urxmsbak/2/
+
+api intro, rest, postman
+api calling - promise async await, fetch
 
 
-async js, event loop, promise, api calling
 curry
 polyfill
 debouncing, throttling
@@ -151,6 +162,7 @@ async defer
 generator function
 event delegation
 prototypical inheritance
+iife
 
 
 REACT
