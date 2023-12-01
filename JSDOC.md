@@ -151,8 +151,18 @@ Event Loop - https://miro.medium.com/v2/resize:fit:1358/1*iHhUyO4DliDwa6x_cO5E3A
 
 Async JS - Timer - https://jsfiddle.net/hashedbit/urxmsbak/2/
 
+Install Postman - https://www.postman.com/downloads/
+
 api intro, rest, postman
 api calling - promise async await, fetch
+
+Promise - https://dotnettutorials.net/wp-content/uploads/2020/08/word-image-149.png
+
+Timer - https://jsfiddle.net/hashedbit/urxmsbak/4/
+
+API Calls - https://jsfiddle.net/hashedbit/h8mz5ew1/2/
+Promise - https://jsfiddle.net/hashedbit/50kvfjun/2/
+API Call with Fetch and Promise - https://jsfiddle.net/hashedbit/0z6Lsya7/2/
 
 
 curry
