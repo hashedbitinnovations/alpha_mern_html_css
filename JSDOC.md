@@ -163,6 +163,9 @@ Timer - https://jsfiddle.net/hashedbit/urxmsbak/4/
 API Calls - https://jsfiddle.net/hashedbit/h8mz5ew1/2/
 Promise - https://jsfiddle.net/hashedbit/50kvfjun/2/
 API Call with Fetch and Promise - https://jsfiddle.net/hashedbit/0z6Lsya7/2/
+API Call with async await - https://jsfiddle.net/hashedbit/71rkg5sj/3/
+Async JS Qs - https://jsfiddle.net/hashedbit/5v2bnhro/3/
+
 
 
 curry
