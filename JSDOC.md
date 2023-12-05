@@ -179,3 +179,37 @@ iife
 
 
 REACT
+Monolithic Architecture
+Server Side Application - Render HTML on browser + Connect with DB + Logics
+
+Microservices architecture
+Back End - connect with db
+API (REST)
+Front End - Render html on browser
+
+
+
+Monorepo architecture
+Micro front end architecture
+
+
+////////////////////
+HTML, CSS, Bootstrap, JavaScript
+MERN
+Front End - React (Node)
+Back End - Express (Node) - Database - MySQL (SQL) / MongoDB (NoSQL)
+
+
+
+**Library vs Framework
+**React vs Angular
+**npm commands
+
+
+React - 
+1) create-react-app
+*****2) npm
+
+
+New Repo - npx create-react-app <foldername>
+New Repo - Github Link - https://github.com/hashedbitinnovations/alphabeta_react
