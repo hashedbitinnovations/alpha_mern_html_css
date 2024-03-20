@@ -213,3 +213,15 @@ React -
 
 New Repo - npx create-react-app <foldername>
 New Repo - Github Link - https://github.com/hashedbitinnovations/alphabeta_react
+
+
+
+
+///////////////////////////
+Function curry - https://jsfiddle.net/deepak104080/hrqLgay5/2/
+polyfill - https://jsfiddle.net/deepak104080/fc3vdbw6/2/
+debouncing, throttling
+async defer
+generator function
+event delegation
+iife
