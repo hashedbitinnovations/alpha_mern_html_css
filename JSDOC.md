@@ -220,8 +220,10 @@ New Repo - Github Link - https://github.com/hashedbitinnovations/alphabeta_react
 ///////////////////////////
 Function curry - https://jsfiddle.net/deepak104080/hrqLgay5/2/
 polyfill - https://jsfiddle.net/deepak104080/fc3vdbw6/2/
+
+async defer - https://i.stack.imgur.com/wfL82.png
+async defer - https://jsfiddle.net/deepak104080/cq50opgk/1/
+generator function - https://jsfiddle.net/deepak104080/gbuo27c8/1/
+iife - https://jsfiddle.net/deepak104080/0xsr8egj/1/
+
 debouncing, throttling
-async defer
-generator function
-event delegation
-iife
